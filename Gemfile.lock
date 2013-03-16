@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.7.7)
+    psych (1.3.4)
+    rack (1.5.2)
+    rack-protection (1.5.0)
+      rack
+    serialport (1.1.0)
+    sinatra (1.3.5)
+      rack (~> 1.4)
+      rack-protection (~> 1.3)
+      tilt (~> 1.3, >= 1.3.3)
+    tilt (1.3.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  psych
+  serialport
+  sinatra

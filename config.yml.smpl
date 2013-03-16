@@ -1,0 +1,5 @@
+dioder:
+  serial: /dev/tty.usbmodemfa141 
+
+app:
+  port: 4567 
